@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "studentTask"
+    }
+  },
+  "defaultProject": "studentTask",
+  "cli": {
+    "analytics": "f96e1220-d0a3-4c25-9091-19d9870097ee"
+  }
 }
